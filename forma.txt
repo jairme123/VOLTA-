@@ -1,5 +1,5 @@
 TITULO
 (aca va el subtitulo)
-Aca empieza el cuerpo del texto
+ESTE ES EL PRIMER CUERPO Y ES DEL MASTER
 
 autor: jair
